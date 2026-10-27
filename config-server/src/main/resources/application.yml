@@ -10,3 +10,6 @@ spring:
                     uri: https://github.com/DTM240603/Rikkei_MD04_SS07_ConfigServer.git
                     default-label: main
                     clone-on-start: true
+
+encrypt:
+    key: MEDICAL_KEY_SECRET_2026
