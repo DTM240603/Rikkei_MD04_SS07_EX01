@@ -3,9 +3,9 @@ spring:
     name: patient-service
   config:
     import: optional:configserver:http://localhost:8888
-
-server:
-  port: 8081
+  profiles:
+    active: dev
+#    active: prod
 
 eureka:
   client:
