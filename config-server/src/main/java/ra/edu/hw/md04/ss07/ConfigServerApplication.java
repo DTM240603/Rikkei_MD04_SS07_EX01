@@ -1,4 +1,4 @@
-package ra.edu.hw.md05.ss07;
+package ra.edu.hw.md04.ss07;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

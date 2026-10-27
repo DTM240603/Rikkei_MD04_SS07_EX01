@@ -4,7 +4,7 @@ plugins {
     id 'io.spring.dependency-management' version '1.1.7'
 }
 
-group = 'ra.edu.hw.md05.ss07'
+group = 'ra.edu.hw.md04.ss07'
 version = '0.0.1-SNAPSHOT'
 description = 'config-server'
 
